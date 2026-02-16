@@ -18,7 +18,7 @@
 class DataAnalyst:
     def __init__(self):
         self.name = "Pranav Parthasarathy"
-        self.location = "Arlington, VA"
+        self.location = "Washington, DC"
         self.education = "MS in Data Analytics @ GWU"
         self.passion = "Turning data into actionable insights"
         
