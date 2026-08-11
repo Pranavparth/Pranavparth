@@ -5,7 +5,7 @@
 ### 📊 Data Analyst | 🤖 AI Enthusiast | 🚀 Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavparth/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pranavparth2510.wixsite.com/my-site-1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pranavparth.github.io/my-portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranav.parth2510@gmail.com)
 
 </div>
@@ -18,7 +18,7 @@
 class DataAnalyst:
     def __init__(self):
         self.name = "Pranav Parthasarathy"
-        self.location = "Washington, DC"
+        self.location = "Chennai,India"
         self.education = "MS in Data Analytics @ GWU"
         self.passion = "Turning data into actionable insights"
         
